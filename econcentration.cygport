@@ -1,0 +1,12 @@
+NAME="econcentration"
+VERSION=0.1.0
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="Enlightenment memory game"
+DESCRIPTION="A memory game based on the Enlightenment Foundation Libraries."
+HOMEPAGE="http://www.enlightenment.org/"
+GIT_URI="git://git.enlightenment.org/games/econcentration.git"
+GIT_REV=3257d79
+inherit git
+
+KEEP_LA_FILES="none"
